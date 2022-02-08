@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pixelready, a designer / product manager turned full stack engineer
-- 👀 I’m interested in gaming, psychology, data visualization, typograpy, chat bots and NLP, and crypto tech
+- 👀 I’m interested in gaming, psychology, data visualization, typograpy, chat bots and NLP, and usability
 - 🌱 I’m currently learning JS, Node, React, PostrgreSQL, Python, Flask and GraphQL
-- 💞️ I’m looking to collaborate on interesting open source projects that involve content management, websockets, or smart contracts
+- 💞️ I’m looking to collaborate on interesting open source projects that involve content management (especially dynamic / rich linked content ala Notion, Coda, Airtable), websockets and other realtime collab solutions, or data viz
