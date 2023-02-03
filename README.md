@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @pixelready, a designer / product manager turned full stack engineer
-- 👀 I’m interested in gaming, psychology, data visualization, typograpy, chat bots and NLP, and usability
-- 🌱 I’m currently focusing on JS, Node, React, PostgreSQL, Python, Flask and GraphQL
+- 👋 Hi, I’m @pixelready, a former UX Designer / Product Manager turned Full Stack Engineer (and loving it!)
+- 👀 I’m interested in: game mechanics, psychology, data visualization, typograpy, chat bots and NLP, and usability
+- 🧑‍💻 At Working I'm mostly using: JS, Node w/ Koa, React / Redux, MSSQL / Azure
+- 🌱 I’m currently focusing on learning: TS w/ Zod, SolidJS w/ SolidStart / Astro, tRPC
 - 💞️ I’m looking to collaborate on interesting open source projects that involve content management (especially dynamic / rich linked content ala Notion, Coda, Airtable), websockets and other realtime collab solutions, or data viz
